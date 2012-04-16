@@ -1,0 +1,38 @@
+test results
+
+source: https://class.coursera.org/algo/forum/thread?thread_id=740
+
+test_case_01: 6,5,3,1
+test_case_02: 0,3,3,4
+test_case_03: 3,3,3
+test_case_04: 359,119,38,15,11
+test_case_05: 2614,94,61,34,26
+test_case_06: 5623,63,58,55,41
+test_case_07: 21717,704,89,69,69
+test_case_08: 55113,704,143,126,123
+
+results for other test case are in ./test_cases/results.txt
+
+graph1n10000scc9453.txt: 359,119,38,15,11
+
+graph2n100scc93.txt: 8,2,1,1,1
+
+graph3n450scc421.txt: 30,1,1,1,1
+
+graph4n4500scc4254.txt: 188,32,28,2,1
+
+graph5n15000scc14092.txt: 858,12,11,11,7
+
+graph6n15scc4.txt: 6,5,3,1
+
+graph7n900scc847.txt: 29,26,1,1,1
+
+graph8n50000scc46790.txt: 2614,94,61,34,26
+
+graph9n100000scc93263.txt: 5623,63,58,55,41
+
+graph10n342156scc315426.txt: 21717,704,89,69,69
+
+graph11n6589scc6216.txt: 355,11,7,3,2
+
+graph12n850000scc779032.txt: 55113,704,143,126,123
